@@ -26,8 +26,8 @@ var registerHelper = function () {
   //
   hbs.registerHelper('toc', function(options) {
 
-    var options = options || {};
-        options.hash = options.hash || {};
+    options = options || {};
+    options.hash = options.hash || {};
 
     var toc = [];
     var $ = cheerio.load(this.html);
