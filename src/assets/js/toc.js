@@ -1,9 +1,5 @@
 'use strict';
 
-var hbs     = require('express-hbs'),
-    _       = require('lodash'),
-    registerHelper,
-    cheerio = require('cheerio');
 
 
 var registerHelper = function () {
@@ -68,5 +64,3 @@ var registerHelper = function () {
   });
 
 };
-
-module.exports = registerHelper;
