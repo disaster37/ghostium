@@ -1,6 +1,6 @@
 {
   "name": "Ghostium",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "A Ghost theme focused on content based on Medium design/ux",
   "url": "http://ghostium.oswaldoacauan.com/",
   "copyright": "2013",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:disaster37/ghostium.git"
+    "url": "https://github.com/disaster37/ghostium.git"
   },
   "bugs": {
-    "url": "https://github.com/oswaldoacauan/ghostium/issues"
+    "url": "https://github.com/disaster37/ghostium/issues"
   },
   "keywords": [
     "ghost",
